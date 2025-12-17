@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ResiSync - Redirecting...</title>
+    <script>
+      // GitHub Pages SPA redirect
+      // This handles direct navigation to routes in a single-page app
+      const path = window.location.pathname;
+      const repo = '/resisync';
+      if (path.startsWith(repo)) {
+        window.location.replace(repo + '/#' + path.slice(repo.length));
+      } else {
+        window.location.replace(repo + '/');
+      }
+    </script>
+  </head>
+  <body>
+    <p>Redirecting...</p>
+  </body>
+</html>
