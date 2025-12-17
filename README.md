@@ -12,7 +12,7 @@
 
 <br/>
 
-<img src="logo.png" alt="ResiSync Logo" width="180" height="180" style="border-radius: 24px; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.25);"/>
+<img src="logo.png" alt="ResiSync Logo" width="280" height="280" style="border-radius: 24px; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.25);"/>
 
 <br/>
 
