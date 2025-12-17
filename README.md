@@ -5,6 +5,7 @@
 ### AI-Powered Compliance Shield for Digital Nomads
 
 [![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Visit_Site-6366f1?style=for-the-badge)](https://abhijatsarari.github.io/resisync)
+[![YouTube Demo](https://img.shields.io/badge/🎬_Watch_Demo-YouTube-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/ISOGPxONKrs)
 [![License](https://img.shields.io/badge/License-MIT-emerald?style=for-the-badge)](LICENSE)
 [![Made with React](https://img.shields.io/badge/React-19.x-61DAFB?style=for-the-badge&logo=react)](https://react.dev)
 [![Powered by Gemini](https://img.shields.io/badge/AI-Google_Gemini-4285F4?style=for-the-badge&logo=google)](https://ai.google.dev)
@@ -17,7 +18,7 @@
 
 **Navigate visa regulations, tax residency rules, and Schengen compliance with AI intelligence.**
 
-[🎬 Watch Demo](#demo) • [✨ Features](#features) • [🚀 Quick Start](#quick-start) • [🛠️ Tech Stack](#tech-stack)
+[🎬 Watch Demo](https://youtu.be/ISOGPxONKrs) • [✨ Features](#features) • [🚀 Quick Start](#quick-start) • [🛠️ Tech Stack](#tech-stack)
 
 ---
 
@@ -43,6 +44,18 @@ Digital nomads face a complex web of regulations:
 - 🤖 **Analyzes** your situation with Google Gemini AI
 - 🔮 **Simulates** future trips before you book
 - 📍 **Visualizes** your global footprint on an interactive map
+
+---
+
+## 🎬 Demo
+
+<div align="center">
+
+[![ResiSync Demo Video](https://img.youtube.com/vi/ISOGPxONKrs/maxresdefault.jpg)](https://youtu.be/ISOGPxONKrs)
+
+**👆 Click to watch the full demo on YouTube**
+
+</div>
 
 ---
 
@@ -76,41 +89,6 @@ Glassmorphic UI with dark mode, smooth animations, and intuitive bento-grid layo
 </td>
 </tr>
 </table>
-
----
-
-## 🎬 Demo
-
-<div align="center">
-
-https://github.com/user-attachments/assets/demo-video-placeholder
-
-*👆 Click to watch the full demo video*
-
-</div>
-
-### Screenshots
-
-<div align="center">
-<table>
-<tr>
-<td align="center"><strong>Dashboard</strong></td>
-<td align="center"><strong>Schengen Shield</strong></td>
-</tr>
-<tr>
-<td><img src="https://via.placeholder.com/400x250/1e1b4b/818cf8?text=Dashboard" alt="Dashboard"/></td>
-<td><img src="https://via.placeholder.com/400x250/064e3b/10b981?text=Schengen+Shield" alt="Shield"/></td>
-</tr>
-<tr>
-<td align="center"><strong>World Map</strong></td>
-<td align="center"><strong>AI Insights</strong></td>
-</tr>
-<tr>
-<td><img src="https://via.placeholder.com/400x250/1e3a5f/3b82f6?text=World+Map" alt="Map"/></td>
-<td><img src="https://via.placeholder.com/400x250/3b0764/a855f7?text=AI+Strategy" alt="AI"/></td>
-</tr>
-</table>
-</div>
 
 ---
 
@@ -164,14 +142,7 @@ npm run preview
 
 <div align="center">
 
-| Category | Technology |
-|----------|------------|
-| **Framework** | React 19 + TypeScript |
-| **Styling** | Tailwind CSS + Custom Glassmorphism |
-| **AI Engine** | Google Gemini Pro API |
-| **Charts** | Recharts |
-| **Build Tool** | Vite 6 |
-| **Deployment** | GitHub Pages |
+**React 19.2.3, TypeScript 5.8.2, Vite 6.2.0, Tailwind CSS 3.x, Google Gemini AI API (@google/genai 1.33.0), Recharts 3.6.0, React Markdown 9.0.1, Node.js 18+, GitHub Pages**
 
 </div>
 
@@ -199,23 +170,7 @@ resisync/
 │   └── 🔮 geminiService.ts    # AI integration layer
 └── 📂 public/
     ├── 🎨 logo.png            # App icon
-    ├── 🎥 logo.mp4            # Splash video
-    └── 🔖 favicon.ico         # Browser favicon
-```
-
----
-
-## 🌐 Deployment
-
-This project auto-deploys to GitHub Pages on every push to `main`.
-
-**Live URL:** [https://abhijatsarari.github.io/resisync](https://abhijatsarari.github.io/resisync)
-
-### Manual Deployment
-
-```bash
-npm run build
-# Deploy the 'dist' folder to your hosting provider
+    └── 🎥 logo.mp4            # Splash video
 ```
 
 ---
@@ -247,7 +202,7 @@ npm run build
 **Abhijat Sarari**
 
 [![GitHub](https://img.shields.io/badge/GitHub-@abhijatsarari-181717?style=for-the-badge&logo=github)](https://github.com/abhijatsarari)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=safari)](https://abhijatsarari.dev)
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-FF0000?style=for-the-badge&logo=youtube)](https://youtu.be/ISOGPxONKrs)
 
 *Building tools for location-independent living* 🌍
 
@@ -272,10 +227,10 @@ Attribution appreciated but not required.
 
 <br/>
 
-**[🚀 Try Live Demo](https://abhijatsarari.github.io/resisync)** • **[🐛 Report Bug](https://github.com/abhijatsarari/resisync/issues)** • **[💡 Request Feature](https://github.com/abhijatsarari/resisync/issues)**
+**[🚀 Try Live Demo](https://abhijatsarari.github.io/resisync)** • **[🎬 Watch Demo](https://youtu.be/ISOGPxONKrs)** • **[🐛 Report Bug](https://github.com/abhijatsarari/resisync/issues)**
 
 <br/>
 
-<sub>Made with ❤️ for digital nomads everywhere</sub>
+<sub>Made with ❤️ by Abhijat Sarari for digital nomads everywhere</sub>
 
 </div>
